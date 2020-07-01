@@ -41,18 +41,24 @@
       "author": "Winston Churchhill"
     },
     {
-      "id": 9,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "author": "Confucius"
-    },
-    {
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
+      "author": "Sonia Sotomayor H"
     },
     {
       "quoteId": 2,
       "id": 11
+    },
+    {
+      "quote": "love matters anywhere and anytime",
+      "author": "Fnu Tsering Norbu",
+      "id": 12
+    },
+    {
+      "quote": "change things all the time wait ...",
+      "author": "kapee",
+      "likes": [],
+      "id": 13
     }
   ],
   "likes": [
@@ -60,6 +66,269 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": "6",
+      "id": 2
+    },
+    {
+      "quoteId": "6",
+      "id": 3
+    },
+    {
+      "quoteId": "1",
+      "createAt": 1593556969,
+      "id": 4
+    },
+    {
+      "quoteId": "1",
+      "createAt": 1593557040,
+      "id": 5
+    },
+    {
+      "quoteId": "1",
+      "createAt": 1593557041,
+      "id": 6
+    },
+    {
+      "quoteId": "1",
+      "createAt": 1593557041,
+      "id": 7
+    },
+    {
+      "quoteId": "1",
+      "createAt": 1593557042,
+      "id": 8
+    },
+    {
+      "quoteId": "1",
+      "createAt": 1593557042,
+      "id": 9
+    },
+    {
+      "quoteId": "1",
+      "createAt": 1593557042,
+      "id": 10
+    },
+    {
+      "quoteId": 1,
+      "createAt": 1593557328,
+      "id": 11
+    },
+    {
+      "quoteId": 1,
+      "createAt": 1593557328,
+      "id": 12
+    },
+    {
+      "quoteId": 1,
+      "createAt": 1593557329,
+      "id": 13
+    },
+    {
+      "quoteId": 1,
+      "createAt": 1593557329,
+      "id": 14
+    },
+    {
+      "quoteId": 1,
+      "createAt": 1593557329,
+      "id": 15
+    },
+    {
+      "quoteId": 1,
+      "createAt": 1593557330,
+      "id": 16
+    },
+    {
+      "quoteId": 1,
+      "createAt": 1593557330,
+      "id": 17
+    },
+    {
+      "quoteId": 1,
+      "createAt": 1593557395,
+      "id": 18
+    },
+    {
+      "quoteId": 2,
+      "createAt": 1593557580,
+      "id": 19
+    },
+    {
+      "quoteId": 2,
+      "createAt": 1593557581,
+      "id": 20
+    },
+    {
+      "quoteId": 2,
+      "createAt": 1593557582,
+      "id": 21
+    },
+    {
+      "quoteId": 2,
+      "createAt": 1593557582,
+      "id": 22
+    },
+    {
+      "quoteId": 2,
+      "createAt": 1593557583,
+      "id": 23
+    },
+    {
+      "quoteId": 3,
+      "createAt": 1593557585,
+      "id": 24
+    },
+    {
+      "quoteId": 3,
+      "createAt": 1593557585,
+      "id": 25
+    },
+    {
+      "quoteId": 3,
+      "createAt": 1593557585,
+      "id": 26
+    },
+    {
+      "quoteId": 4,
+      "createAt": 1593557586,
+      "id": 27
+    },
+    {
+      "quoteId": 4,
+      "createAt": 1593557587,
+      "id": 28
+    },
+    {
+      "quoteId": 4,
+      "createAt": 1593557587,
+      "id": 29
+    },
+    {
+      "quoteId": 5,
+      "createAt": 1593557588,
+      "id": 30
+    },
+    {
+      "quoteId": 5,
+      "createAt": 1593557589,
+      "id": 31
+    },
+    {
+      "quoteId": 6,
+      "createAt": 1593557590,
+      "id": 32
+    },
+    {
+      "quoteId": 6,
+      "createAt": 1593557590,
+      "id": 33
+    },
+    {
+      "quoteId": 7,
+      "createAt": 1593557591,
+      "id": 34
+    },
+    {
+      "quoteId": 8,
+      "createAt": 1593557593,
+      "id": 35
+    },
+    {
+      "quoteId": 10,
+      "createAt": 1593557596,
+      "id": 38
+    },
+    {
+      "quoteId": 10,
+      "createAt": 1593557596,
+      "id": 39
+    },
+    {
+      "quoteId": 12,
+      "createAt": 1593557625,
+      "id": 40
+    },
+    {
+      "quoteId": 12,
+      "createAt": 1593557626,
+      "id": 41
+    },
+    {
+      "quoteId": 13,
+      "createAt": 1593557672,
+      "id": 42
+    },
+    {
+      "quoteId": 13,
+      "createAt": 1593557672,
+      "id": 43
+    },
+    {
+      "quoteId": 13,
+      "createAt": 1593557673,
+      "id": 44
+    },
+    {
+      "quoteId": 13,
+      "createAt": 1593557673,
+      "id": 45
+    },
+    {
+      "quoteId": 13,
+      "createAt": 1593557674,
+      "id": 46
+    },
+    {
+      "quoteId": 13,
+      "createAt": 1593557674,
+      "id": 47
+    },
+    {
+      "quoteId": 12,
+      "createAt": 1593557675,
+      "id": 48
+    },
+    {
+      "quoteId": 12,
+      "createAt": 1593557675,
+      "id": 49
+    },
+    {
+      "quoteId": 12,
+      "createAt": 1593557675,
+      "id": 50
+    },
+    {
+      "quoteId": 12,
+      "createAt": 1593557675,
+      "id": 51
+    },
+    {
+      "quoteId": 12,
+      "createAt": 1593557675,
+      "id": 52
+    },
+    {
+      "quoteId": 12,
+      "createAt": 1593565120,
+      "id": 53
+    },
+    {
+      "quoteId": 1,
+      "createAt": 1593565656,
+      "id": 54
+    },
+    {
+      "quoteId": 2,
+      "createAt": 1593565657,
+      "id": 55
+    },
+    {
+      "quoteId": 3,
+      "createAt": 1593565658,
+      "id": 56
     }
   ]
 }
