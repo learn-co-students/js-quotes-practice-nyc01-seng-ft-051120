@@ -89,10 +89,6 @@ document.addEventListener('click', function(e){
     body: JSON.stringify(formObj)
   })
 
-  // fetch(`http://localhost:3000/likes?${id}=`)
-  // .then(response => response.json())
-  // .then(data => {
-
-  // })
-
 })
+
+
