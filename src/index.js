@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-// POST
+// GET
 
     function renderOneQuote(quote){
         const quotesUl = document.querySelector('#quote-list')
