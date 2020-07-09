@@ -1,16 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
-    },
-    {
       "id": 3,
       "quote": "Don't count the days, make the days count.",
       "author": "Mike Tyson"
@@ -51,15 +41,10 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
-      "id": 11
+      "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+      "author": "Albert Einstein",
+      "id": 16
     }
   ],
-  "likes": [
-    {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    }
-  ]
+  "likes": []
 }
